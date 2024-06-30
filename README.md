@@ -41,7 +41,7 @@ Finding the right accommodation can be a challenging and time-consuming task. PG
 2. Back-End:
    - Node.js
    - Express.js
-   - MongoDB
+   - MySQL
 
 3. Tools and Libraries:
    - Bootstrap for responsive design
